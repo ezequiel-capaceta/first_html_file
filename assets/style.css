@@ -1,0 +1,19 @@
+body {
+    background: rgb(69, 104, 140)
+}
+
+img {
+   height: 250px; 
+}
+
+.white-font {
+    color: white;
+}
+
+#purple-font {
+    color: purple;
+}
+
+div {
+        background: green;
+}
